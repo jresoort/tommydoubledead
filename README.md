@@ -1,2 +1,2 @@
 # tommydoubledead
-platformer game, my gamedevtv gamejam 2022 submission
+small platformer game, my GameDev.tv Game Jam 2022 submission
